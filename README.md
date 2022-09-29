@@ -24,16 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me **oykukaplan01@gmail.com**
 
 - ⚡ Fun fact **:)**
-<h1 align="center">Hi 👋, I'm Öykü Kaplan</h1>
-<h3 align="center">I'm learning Python with SisterLab Academy.</h3>
-
-- 🌱 I’m currently learning **Python**
-
-- 📝 I regularly write articles on [https://medium.com/@oykukaplan01](https://medium.com/@oykukaplan01)
-
-- 📫 How to reach me **oykukaplan01@gmail.com**
-
-- ⚡ Fun fact **:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
