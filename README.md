@@ -4,7 +4,7 @@
 **oykukaplan/oykukaplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-<h1 align="center">Hi 👋, I'm Öykü Kaplan</h1>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<h1 align="center">Hi, I'm Öykü Kaplan</h1>
 <h3 align="center">I'm learning Python with SisterLab Academy.</h3>
 
 - 🌱 I’m currently learning **Python**
