@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
