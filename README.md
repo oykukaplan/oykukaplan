@@ -4,6 +4,7 @@
 **oykukaplan/oykukaplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -22,7 +23,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **oykukaplan01@gmail.com**
 
-- ⚡ Fun fact **:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
