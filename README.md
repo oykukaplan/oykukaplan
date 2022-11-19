@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Page!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github!&center=true&size=25">
   </a> 
 </h1>
 <h1 align="center">Hi, I'm Öykü Kaplan</h1>
