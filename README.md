@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </a> 
 </h1>
 <h1 align="center">Hi, I'm Öykü Kaplan</h1>
-<h3 align="center">I'm learning Python with SisterLab Academy.</h3>
+<h3 align="center"> </h3>
 
 
 - 🌱 I’m currently learning **Python**
