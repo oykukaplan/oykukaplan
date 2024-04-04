@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <h3 align="center"> </h3>
 
 
-- 🌱 I’m currently learning **Python**
-
+- 🌱 I am currently pursuing a master's degree in **Computer Science**.
+  
 - 📝 I regularly write articles on [https://medium.com/@oykukaplan01](https://medium.com/@oykukaplan01)
 
 - 📫 How to reach me **oykukaplan01@gmail.com**
